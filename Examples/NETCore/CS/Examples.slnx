@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../../SubstrateNETCore/Substrate.csproj" />
+  <Project Path="BlockReplace/BlockReplace.csproj" />
+</Solution>
